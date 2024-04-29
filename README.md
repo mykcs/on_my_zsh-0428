@@ -1,5 +1,7 @@
 # on_my_zsh-0428
 
+2024 0429 暂时搁置
+
 ref [macOS 程序员必备：iTerm2 与 oh-my-zsh](www.bilibili.com/video/BV14a4y1F7Ss)
 
 ## install
