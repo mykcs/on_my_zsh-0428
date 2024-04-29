@@ -2,9 +2,9 @@
 
 ref [macOS 程序员必备：iTerm2 与 oh-my-zsh](www.bilibili.com/video/BV14a4y1F7Ss)
 
-https://ohmyz.sh/
-
 ## install
+
+https://ohmyz.sh/
 
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
