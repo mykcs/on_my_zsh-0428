@@ -12,11 +12,15 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## issue 01 -fixed
 
-## /.zhsrc文件
+## /.zhsrc 文件
 
 从ver0变为ver1
 
-改变一下，加入插件
+## /.zhsrc 插件
+
+blog https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95
+
+再在/.zhsrc 文件加入这些
 ```shell
 plugins=(
     git
@@ -24,3 +28,4 @@ plugins=(
     zsh-syntax-highlighting
 )
 ```
+<img width="915" alt="image" src="https://github.com/mykcs/on_my_zsh-0428/assets/165669834/a0625938-26d2-4611-9e8b-ba746264e5a5">
