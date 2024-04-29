@@ -31,3 +31,4 @@ plugins=(
 <img width="915" alt="image" src="https://github.com/mykcs/on_my_zsh-0428/assets/165669834/a0625938-26d2-4611-9e8b-ba746264e5a5">
 
 ## theme
+powerlevel10k
